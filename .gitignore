@@ -1,0 +1,18 @@
+# this is .gitignore file
+#以下是忽略的文件
+.obsidian/
+C++学习/
+Daily/
+JAVA学习笔记/
+Linux学习/
+Matlab/
+Obsidian Vault/
+Obsidian/
+插入的图片/ 
+蓝桥杯刷题/
+离散数学/
+倪海厦/
+学习系统/
+英语学习/
+Git/
+.gitignore/
